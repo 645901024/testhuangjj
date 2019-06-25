@@ -11,7 +11,6 @@ public class RestApplicationTests {
 
     @Test
     public void contextLoads() {
-        System.out.println("asd");
     }
 
 }
